@@ -55,5 +55,8 @@ rshap_error.log
 # Claude Code workspace settings
 .claude/
 
+# PyPI distribution staging folder (local only — not tracked in git)
+_pypi/
+
 # Generated figures from example notebook (reproduced by running the notebook)
 **/FIGURES/
