@@ -1,4 +1,8 @@
-# RSHAP — Residual Decomposition Symmetric
+# RSHAP — Symmetric Residual Decomposition
+
+[![PyPI version](https://img.shields.io/pypi/v/rshap.svg)](https://pypi.org/project/rshap/)
+[![Python](https://img.shields.io/pypi/pyversions/rshap.svg)](https://pypi.org/project/rshap/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/amaxiom/RSHAP/blob/main/LICENSE)
 
 RSHAP is a Python package for **instance-level influence analysis** of machine learning models. It uses a Shapley-style residual decomposition to measure how much each training instance affects the prediction errors of every other instance, producing a rich picture of inter-instance relationships that standard feature-importance methods cannot provide.
 
